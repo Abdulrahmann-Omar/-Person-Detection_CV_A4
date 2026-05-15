@@ -5,7 +5,13 @@ __pycache__/
 outputs/
 *.mp4
 *.avi
-report/*.pdf
+# Keep report PDF and docs GIFs tracked
+!report/report.pdf
+!docs/
+report/*.log
+report/*.aux
+report/*.out
+report/*.toc
 report/figures/*.png
 .env
 *.egg-info/
