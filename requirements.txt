@@ -1,0 +1,27 @@
+# Core
+numpy>=1.24
+opencv-python-headless>=4.8
+Pillow>=10.0
+
+# Transfer Learning
+ultralytics>=8.2
+torch>=2.1
+torchvision>=0.16
+
+# Modal
+modal>=0.62
+
+# Notebook
+jupyter>=1.0
+ipykernel>=6.0
+ipywidgets>=8.0
+nbformat>=5.9
+
+# Report
+matplotlib>=3.8
+seaborn>=0.13
+pandas>=2.0
+
+# Testing
+pytest>=7.4
+scipy>=1.11

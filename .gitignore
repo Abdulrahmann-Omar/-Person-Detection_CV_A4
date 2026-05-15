@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+outputs/
+*.mp4
+*.avi
+report/*.pdf
+report/figures/*.png
+.env
+*.egg-info/
+dist/
+.modal/
+.ipynb_checkpoints/
+*.egg-info/
