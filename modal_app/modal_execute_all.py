@@ -18,6 +18,7 @@ image = (
         "texlive-fonts-recommended", "texlive-fonts-extra",
         "texlive-science", "cm-super", "dvipng",
         "libgl1-mesa-glx", "libglib2.0-0",
+        "ffmpeg",
     ])
     .pip_install([
         "numpy", "opencv-python-headless", "Pillow",

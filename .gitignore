@@ -3,7 +3,8 @@ __pycache__/
 *.pth
 *.pt
 outputs/
-*.mp4
+# keep the sample video tracked
+!data/pedestrian.mp4
 *.avi
 # Keep report PDF and docs GIFs tracked
 !report/report.pdf
